@@ -6,7 +6,7 @@ The red wire is for power 1.
 The green wire is for power 2.
 The black wires are for ground .
 The yellow wires are for inputs.
-The orang wires are for outpts.
+The orang wires are for outputs.
 The gray wires are for enables .
 
 Power 1 : this input is for connecting 5 voltage Arduino Circuit to L293D.
