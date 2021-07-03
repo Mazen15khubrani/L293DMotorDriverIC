@@ -1,6 +1,6 @@
 # L293DMotorDriverIC
 This is project programed to move robot Tyres by 2 motors  12 volt DC .
-I used in this project Aurdino circit with L293D Motor Driver IC to contrpler in the motors and i used power Source 12V DC from the Power Supply instead  operation circit and welud be do it in the in next task.
+I used in this project Aurdino circuit with L293D Motor Driver IC to contrpler in the motors and i used power Source 12V DC from the Power Supply instead  operation circuit and welud be do it in the in next task.
 L293D Pinout :
 The red wire is for power 1.
 The green wire is for power 2.
